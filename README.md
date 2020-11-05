@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I'm Hivi 👋
 
 - 🔭 I’m currently working on Frontier Wallet 
 - 🌱 I’m currently learning Computer Science
